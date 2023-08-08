@@ -1,0 +1,5 @@
+print('Vamos fazer a soma entre dois números!')
+num1 = input('Primeiro número: ')
+num2 = input('Segundo número: ')
+soma = (num1) + (num2)
+print('A soma é',soma)
