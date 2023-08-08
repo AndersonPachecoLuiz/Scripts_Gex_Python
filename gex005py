@@ -1,0 +1,8 @@
+print('Vamos calcular a média de suas notas')
+n1 = float(input('Digite a Nota 1: '))
+n2 = float(input('Digite a Nota 2: '))
+n3 = float(input('Digite a Nota 3: '))
+soma = n1 + n2 + n3
+media = (soma / 3)
+print('As suas notas são: {}, {} e {}'.format(n1,n2,n3))
+print('Sua média é: {}'.format(media))
